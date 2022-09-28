@@ -1,0 +1,1 @@
+folder public ini dibuat untuk built-in midleware/file public untuk bahan membuat foto seperti js,css,dan image
